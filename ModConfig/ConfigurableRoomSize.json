@@ -1,0 +1,6 @@
+{
+  "MaxRoomSize": 14,
+  "MaxCellarSize": 7,
+  "AltMaxCellarSize": 9,
+  "AltMaxCellarVolume": 150
+}

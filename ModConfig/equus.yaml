@@ -1,0 +1,3 @@
+version: 2
+WorldGenSpawnRateFerus: 0.002 # from 0 to 1 with step of 0,0001 (default: 0,002) 
+RuntimeSpawnRateFerus: 5E-05 # from 0 to 1 with step of 1E-05 (default: 5E-05) 

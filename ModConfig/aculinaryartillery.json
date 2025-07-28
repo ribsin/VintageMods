@@ -1,0 +1,8 @@
+{
+  "OvenDTMod": "Modifies The Rate At Which The Oven Heats, Cools, and Bakes (1.25 for Vanilla)",
+  "BEExpandedOvenDTMod": 1.25,
+  "FuelBurnRateMod": "Multiplier Applied To BurnRate of Fuels Used In Oven (1.25 for Vanilla)",
+  "BEExpandedOvenFuelBurnRateMod": 1.25,
+  "OvenBakeTimeMod": "Additional Direct Modifier To Bake Rate (Does Not Affect Heating/Cooling Time (1.2 for Vanilla)",
+  "BEExpandedOvenBakeTimeMod": 1.2
+}

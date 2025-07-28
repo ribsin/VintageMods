@@ -1,0 +1,7 @@
+{
+  "Units": "CUSTOMARY_METRIC",
+  "AnimalMeat": 1.0,
+  "MeatScalesWithYearLength": true,
+  "InbreedingResistance": 0.6,
+  "ConfigVersion": 0
+}

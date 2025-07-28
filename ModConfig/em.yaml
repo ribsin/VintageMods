@@ -1,0 +1,17 @@
+version: 2
+
+
+##############################
+## Expanded Matter Settings ##
+##############################
+
+# Sealing time for plant based dyes in hours. Default is 62.
+dye_seal_hour_factor: 62 # from 2 to 240 with step of 2 (default: 62) 
+# How much crushed flint you get for one piece of flint in the pulverizer
+flint_crushing_factor: 1.5 # from 1 to 3 with step of 0,25 (default: 1,5) 
+# Can diluted saltpeter be used to preserve food?
+saltpeter_curing: false #  (default: False) 
+# Should some rare or unobtainable ores like uranium be added to the panning list?
+ore_panning: true #  (default: True) 
+# If enabled, flint spears and arrow heads can be crushed in a pulverizer
+flint_crushing: true #  (default: True) 
