@@ -181,6 +181,21 @@
     "archer": 0.1,
     "vanguard": -0.2,
     "gatherer": 0.2,
-    "mercenary": -0.1
+    "mercenary": -0.1,
+    
+
+
+
+    
+    "gourmet": 0.2,
+    "defector": -0.2,
+    "recreant": -0.05,
+    "doctor": 0.15,
+    "tailor": -0.15,
+    "mason": -0.15,
+    "alchemist": 0.15,
+    "woodworker": -0.05,
+    "smith": -0.15,
+    "Farmer": 0.15
   }
 }
