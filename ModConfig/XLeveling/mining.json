@@ -229,7 +229,7 @@
     "alchemist": -0.05,
     "woodworker": -0.05,
     "blacksmith": 0.2,
-    "Farmer": -0.1,
+    "farmer": -0.1,
     "olympian": 0.20,
     "cultist": 0.00
   }
