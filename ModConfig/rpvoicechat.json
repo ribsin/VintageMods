@@ -1,0 +1,12 @@
+{
+  "Version": null,
+  "ManualPortForwarding": false,
+  "ServerPort": 52525,
+  "ServerIP": null,
+  "AdditionalContent": true,
+  "UseCustomNetworkServers": false,
+  "PushToTalkEnabled": false,
+  "IsMuted": false,
+  "InputThreshold": 20,
+  "CurrentInputDevice": null
+}
