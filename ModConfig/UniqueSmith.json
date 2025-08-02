@@ -1,0 +1,26 @@
+{
+  "Mode": "Block",
+  "Blacklist": [
+    {
+      "ClassName": "commoner",
+      "Itemlist": []
+    },
+    {
+      "ClassName": "hunter",
+      "Itemlist": [
+        "steel",
+        "iron",
+        "bronze",
+        "cokeovendoor"
+      ]
+    }
+  ],
+  "Allowlist": [
+    {
+      "ClassName": "commoner",
+      "Itemlist": [
+        "copper"
+      ]
+    }
+  ]
+}

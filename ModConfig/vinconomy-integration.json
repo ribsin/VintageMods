@@ -1,0 +1,5 @@
+{
+  "IsEnabled": true,
+  "MessageIntervalMinutes": 10,
+  "PurchasesWebhook": null
+}

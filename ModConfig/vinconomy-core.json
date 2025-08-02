@@ -1,0 +1,13 @@
+{
+  "FoodDecaysInShops": true,
+  "StallPerishRate": 0.15,
+  "EnforceShopLimits": false,
+  "StallsPerPlayer": 20,
+  "ShopsPerPlayer": 5,
+  "ViconTenretniWhitelists": [
+    {
+      "baseURL": "https://pastebin.com/raw/",
+      "name": "Pastebin.com"
+    }
+  ]
+}
