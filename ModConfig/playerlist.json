@@ -1,0 +1,9 @@
+{
+  "thresholds": [
+    65,
+    125,
+    500
+  ],
+  "header": null,
+  "footer": null
+}

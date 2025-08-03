@@ -1,0 +1,22 @@
+version: 0
+
+
+###########################
+## Seraph model settings ##
+###########################
+
+# Min model size player can choose when cerating character.
+min_size_range: 0.9 # from 0,1 to 1 (default: 0,9) 
+# Max model size player can choose when creating character.
+max_size_range: 1.1 # from 1 to 2 (default: 1,1) 
+# Scales player model independently of model size selected when creating character.
+size_factor: 1 # from 0,1 to 2 (default: 1) 
+# Restricts collision box height, is used to allow player to pass under 2 blocks high opennings. Without restricton if collider is heigher thaSn 2.0, player will have to crouch to go though doors.
+max_collision_box_vetrical: 1.99 # from 0,1 to 5 (default: 1,99) 
+# Restricts collision box width, to allow player to squize into 1 blocks wide opennings.
+max_collision_box_horizontal: 0.99 # from 0,1 to 5 (default: 0,99) 
+# Restricts eye height, if eye height is higher than 2.0, player camera will clip into blocks when passing rhough 2 blocks high opennings.
+max_eye_height: 1.95 # from 0,1 to 5 (default: 1,95) 
+min_eye_height: 0.1 # from 0,1 to 5 (default: 0,1) 
+scale_collider_horizontally: true #  (default: True) 
+scale_collider_vertically: true #  (default: True) 

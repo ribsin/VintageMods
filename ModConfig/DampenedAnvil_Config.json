@@ -1,0 +1,9 @@
+{
+  "HammerHitDistance": 8.0,
+  "HammerHitVolume": 0.5,
+  "HelveHitDistance": 16.0,
+  "HelveHitVolume": 0.5,
+  "PulverizerHitDistance": 4.0,
+  "PulverizerHitVolume": 0.5,
+  "Version": 1.0
+}

@@ -1,0 +1,18 @@
+{
+  "ArmorHead": true,
+  "ArmorBody": true,
+  "ArmorLegs": true,
+  "Head": true,
+  "Shoulder": true,
+  "UpperBody": true,
+  "UpperBodyOver": true,
+  "LowerBody": true,
+  "Foot": true,
+  "Neck": true,
+  "Emblem": true,
+  "Face": true,
+  "Arm": true,
+  "Hand": true,
+  "Waist": true,
+  "Back": true
+}
