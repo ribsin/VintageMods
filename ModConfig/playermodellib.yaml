@@ -5,6 +5,7 @@ version: 0
 ## Seraph model settings ##
 ###########################
 
+enable_default_model: true #  (default: True) 
 # Min model size player can choose when cerating character.
 min_size_range: 0.9 # from 0,1 to 1 (default: 0,9) 
 # Max model size player can choose when creating character.

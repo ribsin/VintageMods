@@ -1,6 +1,6 @@
 {
-  "noiseScale": 128.0,
-  "heightMapNoiseScale": 80.0,
+  "noiseScale": 256.0,
+  "heightMapNoiseScale": 66.0,
   "fallbackParentLandformCode": "ultraflats",
   "Delicate_configs_below__alter_at_your_own_peril": false,
   "oceanWobbleScale": 1.5,
