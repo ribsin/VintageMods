@@ -13,8 +13,8 @@
   "BaseZoomLevel": 9,
   "CreateZoomLevels": true,
   "MaxDegreeOfParallelism": -1,
-  "ExportOnStart": false,
-  "ExportChunkVersionMap": false,
+  "ExportOnStart": true,
+  "ExportChunkVersionMap": true,
   "SaveMode": true,
   "StopOnDone": false
 }

@@ -1,0 +1,19 @@
+{
+  "EnableRockSlidingComment": "Enable the distant rock sliding",
+  "EnableRockSliding": true,
+  "RadiusComment": "Minimum distance in blocks away from player to play rockslide sound",
+  "Radius": 20,
+  "IntervalMsComment": "Interval (in ms, default is 15000 or 15 seconds) between chance to trigger a rockslide sound",
+  "IntervalMs": 15000,
+  "ChanceComment": "Percentage chance per interval to trigger a rockslide sound (1 is 100%, 0.10 is 10%)",
+  "Chance": 0.35,
+  "SoundVariantsComment": "List of sound asset names to pick from inside the environment folder",
+  "SoundVariants": [
+    "stoneecho",
+    "stoneecho2",
+    "stoneecho3",
+    "stoneecho4",
+    "stoneecho5",
+    "stoneecho6"
+  ]
+}

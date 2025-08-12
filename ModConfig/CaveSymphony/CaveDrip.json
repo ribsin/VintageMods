@@ -1,0 +1,25 @@
+{
+  "EnableComment": "true = enable cave drip system.",
+  "Enable": true,
+  "MaxSunlightLevelComment": "highest sunlight level allowed for drips.",
+  "MaxSunlightLevel": 10,
+  "MinClusterSizeComment": "minimun water blocks required for a cave body of water for a chance to trigger water drips.",
+  "MinClusterSize": 7,
+  "MinDripsPerBodyComment": "minimum drips to spawn per water body.",
+  "MinDripsPerBody": 0,
+  "MaxDripsPerBodyComment": "maximum drips to spawn per water body.",
+  "MaxDripsPerBody": 3,
+  "LoopMinMsComment": "minimum interval in ms that a cave body of water will spawn a new drip.",
+  "LoopMinMs": 5000,
+  "LoopMaxMsComment": "maximum interval in ms that a cave body of water will spawn a new drip.",
+  "LoopMaxMs": 12000,
+  "DripAssetPathsComment": "Two lists the mod will use, one for small drips and one for big drips, those are triggered based on the particle size which is random.",
+  "DripAssetPaths": [
+    "sounds/environment/drip",
+    "sounds/environment/drip2"
+  ],
+  "BigDripAssetPaths": [
+    "sounds/environment/bigdrip",
+    "sounds/environment/bigdrip2"
+  ]
+}

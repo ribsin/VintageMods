@@ -609,7 +609,9 @@
       "3": 0.95
     }
   },
-  "items_codes_with_socket_count": {},
+  "items_codes_with_socket_count": {
+    "moved to items_codes_with_socket_count_and_tiers": 42
+  },
   "items_codes_with_socket_count_and_tiers": {
     "canjewelry:cancoronet-*": [
       3

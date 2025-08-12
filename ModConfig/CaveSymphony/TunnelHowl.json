@@ -1,0 +1,25 @@
+{
+  "EnableHallwaySystemComment": "true = enable hallway-wind system",
+  "EnableHallwaySystem": true,
+  "EnableLoggingComment": "true = show debug messages",
+  "EnableLogging": false,
+  "MinLightThresholdComment": "lowest sunlight level that still counts",
+  "MinLightThreshold": 10,
+  "MaxLightThresholdComment": "highest sunlight level that still counts",
+  "MaxLightThreshold": 17,
+  "WindThresholdComment": "wind speed needed to keep the howl playing",
+  "WindThreshold": 0.5,
+  "MaxVolumeComment": "how loud the howl gets at full strength",
+  "MaxVolume": 2,
+  "FadeInTimeComment": "seconds to fade from silence to full volume",
+  "FadeInTime": 2,
+  "FadeOutTimeComment": "seconds to fade out when wind dies",
+  "FadeOutTime": 6,
+  "NearbyRadiusComment": "blocks inside which a second howl wont spawn",
+  "NearbyRadius": 8,
+  "HowlAssetPathsComment": "list of hallway-wind sounds to choose from",
+  "HowlAssetPaths": [
+    "sounds/hallway/hallway_wind",
+    "sounds/hallway/hallway_wind2"
+  ]
+}

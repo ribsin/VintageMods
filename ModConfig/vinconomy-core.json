@@ -1,5 +1,5 @@
 {
-  "FoodDecaysInShops": true,
+  "FoodDecaysInShops": false,
   "StallPerishRate": 0.15,
   "EnforceShopLimits": false,
   "StallsPerPlayer": 20,

@@ -1,0 +1,29 @@
+{
+  "EnableHumSystemComment": "true = enable deepcave HUM effect",
+  "EnableHumSystem": true,
+  "EnableLoggingComment": "true = show debug logs, false = silent",
+  "EnableLogging": false,
+  "MaxDarkLevelComment": "This is the minimum level of sunlight exposure required for the block youre standing on to start the HUM sound. Setting this too high will make the HUM sound start even outside caves.",
+  "MaxDarkLevel": 10,
+  "CooldownMsComment": "This is a cooldown system that forces the last HUM sound played to play again entering a cave, instead of picking a random one. The idea here is that entering the same cave you left a minute ago will produce the same sound effect instead of a completely different one.",
+  "CooldownMs": 60000,
+  "MaxVolumeComment": "Hum max volume, this is the value DarkLevel and MaxDepth will aim to.",
+  "MaxVolume": 1,
+  "MaxDepthBelowSeaComment": "Vertical distance below sea level (in blocks) to reach full depth-driven volume",
+  "MaxDepthBelowSea": 80,
+  "LightVolumeShareComment": "This will share the max volume with depth. Being in a cave with 0 exposure to sun light can max out the HUM volume by the value below (default 0.2 or 20%) wich means the darkest cave can only max the HUM volume to 20% leaving the other 80% to be calculated by depth.",
+  "LightVolumeShare": 0.2,
+  "DepthVolumeShareComment": "This will share the max volume with sun light exposure. Being deep down a cave will max out the hum volume up to the value below (default 0.8 or 80%) The rest is up to the sun light exposure to calculate.",
+  "DepthVolumeShare": 0.8,
+  "FadeInTimeComment": "This is the Fade in effect of the hum sound, its the time in seconds for the hum to fade in to its target volume.",
+  "FadeInTime": 3,
+  "FadeOutTimeComment": "This is the Fade out effect of the hum sound, its the time in seconds for the hum to fade out when you leave a cave/resurface.",
+  "FadeOutTime": 1,
+  "HumAssetPathsComment": "This is the sound list, you can add any sound effect you want to the mod, just make sure to put the file name here, and the file itself inside assets/cavesymphony/sounds/cave.",
+  "HumAssetPaths": [
+    "sounds/cave/cave_hum",
+    "sounds/cave/cave_hum2",
+    "sounds/cave/cave_hum3",
+    "sounds/cave/cave_hum4"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Enabled": true,
+  "FarViewDistance": 4096,
+  "SkyTint": 5.0,
+  "ColorTintR": 0.29,
+  "ColorTintG": 0.5,
+  "ColorTintB": 0.8,
+  "ColorTintA": 0.55,
+  "LightLevelBias": 0.7,
+  "FadeBias": 0.36,
+  "GlobeEffect": 0.075
+}
