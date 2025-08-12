@@ -1,5 +1,5 @@
 {
-  "Version": null,
+  "Version": "v1",
   "ManualPortForwarding": false,
   "ServerPort": 52525,
   "ServerIP": null,
