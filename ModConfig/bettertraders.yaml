@@ -25,15 +25,15 @@ Minimal distance between traders: 600 # from 0 to 40000 (default: 600)
 ##########################
 
 # Defines the spawnchance of a specific trader structure type.
-Traderwagons: 0.07 # from 0 to 10 (default: 0,05) 
+Traderwagons: 0.07 # from 0 to 10 (default: 0.05) 
 # Defines the spawnchance of a specific trader structure type.
-Rare Steampunkstyle: 0.08 # from 0 to 10 (default: 0,01) 
+Rare Steampunkstyle: 0.08 # from 0 to 10 (default: 0.01) 
 # Defines the spawnchance of a specific trader structure type.
-Metal Traderwagons: 0.8 # from 0 to 10 (default: 0,2) 
+Metal Traderwagons: 0.8 # from 0 to 10 (default: 0.2) 
 # Defines the spawnchance of a specific trader structure type.
-Tractors: 0.8 # from 0 to 10 (default: 0,1) 
+Tractors: 0.8 # from 0 to 10 (default: 0.1) 
 # Defines the spawnchance of a specific trader structure type.
-Coldclimate Traders: 0.8 # from 0 to 10 (default: 0,1) 
+Coldclimate Traders: 0.8 # from 0 to 10 (default: 0.1) 
 
 
 #####################
@@ -41,11 +41,11 @@ Coldclimate Traders: 0.8 # from 0 to 10 (default: 0,1)
 #####################
 
 # Defines the spawnchance of bricklayers specific traders if that mod is loaded alongside bettertraders.
-Bricklayers Traders: 0.03 # from 0 to 10 (default: 0,03) 
+Bricklayers Traders: 0.03 # from 0 to 10 (default: 0.03) 
 # Defines the spawnchance of expandedfoods specific traders if that mod is loaded alongside bettertraders.
-Expandedfoods Traders: 0.004 # from 0 to 10 (default: 0,004) 
+Expandedfoods Traders: 0.004 # from 0 to 10 (default: 0.004) 
 # Defines the spawnchance of booktrader specific traders if that mod is loaded alongside bettertraders.
-Booktrader Traders: 0.2 # from 0 to 10 (default: 0,2) 
+Booktrader Traders: 0.2 # from 0 to 10 (default: 0.2) 
 
 
 ###############################
@@ -53,4 +53,4 @@ Booktrader Traders: 0.2 # from 0 to 10 (default: 0,2)
 ###############################
 
 # Defines the spawnchance of a specific trader structure type.
-Trader Villages Spawn Chance: 0.8 # from 0 to 10 (default: 0,1) 
+Trader Villages Spawn Chance: 0.8 # from 0 to 10 (default: 0.1) 
