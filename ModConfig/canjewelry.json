@@ -2474,7 +2474,7 @@
     "mechanicalsDamage",
     "rangedWeaponsAcc"
   ],
-  "config_version": "0.4.23",
+  "config_version": "0.4.25",
   "PossibleGemBuffs": {
     "diamond": [
       "walkspeed"
