@@ -1,0 +1,9 @@
+{
+  "NotApplicableToEntityClasses": [
+    "EntityPlayer",
+    "EntityTrader",
+    "EntityVillager",
+    "EntityHumanoid",
+    "EntityEidolon"
+  ]
+}

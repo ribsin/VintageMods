@@ -26,5 +26,5 @@
   "CeilingSpawnChanceComment": "chance that the ceiling block in the radius will spawn a particle.",
   "CeilingSpawnChance": 0.8,
   "QuakeChanceComment": "chance each IntervalSeconds (30 seconds) to trigger a quake (0.01 = 1%).",
-  "QuakeChance": 0.01
+  "QuakeChance": 0.001
 }
