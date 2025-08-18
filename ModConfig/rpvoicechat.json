@@ -7,6 +7,6 @@
   "UseCustomNetworkServers": false,
   "PushToTalkEnabled": false,
   "IsMuted": false,
-  "InputThreshold": 20,
+  "InputThreshold": 10,
   "CurrentInputDevice": null
 }

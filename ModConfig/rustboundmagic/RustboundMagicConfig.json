@@ -103,7 +103,7 @@
   "Description_LOCK_ALL_MAGIC_TO_RUSTMAGE_ONLY": "Should all magic be lock to the 'Rust Mage' class only? [Default: false]",
   "LOCK_ALL_MAGIC_TO_RUSTMAGE_ONLY": false,
   "Description_LOCK_ADVANCED_MAGIC_TO_RUSTMAGE_ONLY": "Should magic tier 2 and 3 be lock to the 'Rust Mage' class only? [Default: false]",
-  "LOCK_ADVANCED_MAGIC_TO_RUSTMAGE_ONLY": false,
+  "LOCK_ADVANCED_MAGIC_TO_RUSTMAGE_ONLY": true,
   "Description_ENTITYBEHAVIOR_MAXEXPTONEXTMAXMANALEVEL_MULTIPLIER_RUSTMAGE": "The amount of bonus magic experience the 'Rust Mage' class has, based on the experience multiplier in percent? [Default: 5, Min:1, Max: 100]",
   "ENTITYBEHAVIOR_MAXEXPTONEXTMAXMANALEVEL_MULTIPLIER_RUSTMAGE": 5,
   "S05": "================================",
