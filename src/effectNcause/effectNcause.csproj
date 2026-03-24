@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>effectNcause</AssemblyName>
+    <RootNamespace>EffectNCause</RootNamespace>
+    <Optimize>true</Optimize>
+    <!-- Prevent the VS API DLLs from being copied into the output -->
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+  <!--
+    Set GameInstallDir to your Vintage Story installation directory, e.g.:
+      Windows : C:\Program Files\Vintagestory
+      Linux   : /opt/vintagestory
+    You can override this on the command line:
+      dotnet build /p:GameInstallDir=/opt/vintagestory
+  -->
+  <PropertyGroup>
+    <GameInstallDir Condition="'$(GameInstallDir)' == ''">C:\Program Files\Vintagestory</GameInstallDir>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="VintagestoryAPI">
+      <HintPath>$(GameInstallDir)\VintagestoryAPI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>$(GameInstallDir)\Lib\Newtonsoft.Json.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>

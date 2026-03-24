@@ -1,0 +1,14 @@
+{
+  "type": "code",
+  "name": "effectNcause",
+  "modid": "effectncause",
+  "version": "1.0.0",
+  "description": "A global environment mod that tracks human impact on the world's climate, including pollution from deforestation, healing from planting, and rare meteorite impact winters.",
+  "authors": [],
+  "side": "server",
+  "requiredOnClient": false,
+  "requiredOnServer": true,
+  "dependencies": {
+    "game": "1.20.0"
+  }
+}
